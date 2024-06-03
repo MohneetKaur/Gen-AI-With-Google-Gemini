@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu # Facebook AI Similarity Search for efficient similarity search and clustering of dense vectors
+langchain_google_genai
